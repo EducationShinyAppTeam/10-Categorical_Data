@@ -1,0 +1,6 @@
+[submodule "ChiSquare_Independence_Test"]
+	path = ChiSquare_Independence_Test
+	url = https://github.com/EducationShinyAppTeam/ChiSquare_Independence_Test
+[submodule "ChiSquare_Goodness_of_Fit_Test"]
+	path = ChiSquare_Goodness_of_Fit_Test
+	url = https://github.com/EducationShinyAppTeam/ChiSquare_Goodness_of_Fit_Test
