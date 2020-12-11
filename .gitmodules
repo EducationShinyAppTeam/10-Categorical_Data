@@ -7,3 +7,6 @@
 [submodule "Odds_Ratio"]
 	path = Odds_Ratio
 	url = ../Odds_Ratio
+[submodule "Logistic_Regression"]
+	path = Logistic_Regression
+	url = ../Logistic_Regression
